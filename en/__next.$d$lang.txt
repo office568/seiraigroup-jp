@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[79520,["/_next/static/chunks/3c80ui_w1j3dp.js"],""]
+:HL["/_next/static/chunks/0y867-evfr7ii.css","style"]
+:HL["/_next/static/chunks/03x-1wguaargy.css","style"]
+:HL["/_next/static/chunks/19rhlcx2srev9.css","style"]
+3:Tba4,(function(){var r=document.documentElement;
+/* Marks the document as script-enabled. The stylesheet hangs every enhanced
+   layout off html.js: the fixed quick-action rail, the hidden sitemap
+   fallback link, the header that is transparent over the hero. */
+r.classList.add('js');
+if(matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+/* Arriving from another page of this site (PageTransition.tsx set the flag
+   as it left): start behind the same white, then lift it once the page and
+   its type are ready, capped so a slow font never holds the white. */
+var pt=false;try{pt=sessionStorage.getItem('seirai-pt')==='1';sessionStorage.removeItem('seirai-pt')}catch(e){}
+if(pt){r.classList.add('pt-arrive');
+var lift=function(){var f=(document.fonts&&document.fonts.ready)||Promise.resolve();
+Promise.race([f,new Promise(function(go){setTimeout(go,350)})]).then(function(){
+requestAnimationFrame(function(){r.classList.add('pt-reveal');
+setTimeout(function(){r.classList.remove('pt-arrive','pt-reveal')},700)})})};
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',lift);else lift()}
+/* An inner page's header photograph wipes open once, after it has decoded,
+   so the reveal never runs against an empty frame. The hidden state goes on
+   now, before the first paint; once the document is parsed the photograph is
+   found, or the class is taken off again on a page that has none. The wait
+   for the image is capped at 600ms so a slow connection never holds a blank
+   frame. */
+r.classList.add('ph-wait');
+var ph=function(){var el=document.querySelector('[data-enter-mask]');
+if(!el){r.classList.remove('ph-wait');return}
+var img=el.querySelector('img');
+var d=(img&&img.decode)?img.decode().catch(function(){}):Promise.resolve();
+Promise.race([d,new Promise(function(go){setTimeout(go,600)})]).then(function(){
+void el.offsetWidth;r.classList.add('ph-go');
+setTimeout(function(){r.classList.remove('ph-wait','ph-go')},900)})};
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',ph);else ph();
+/* The hero entrance, first view of the session only. On a page with no hero
+   every one of these rules is a descendant selector that matches nothing, so
+   the classes are harmless there and the script needs no page to tell it
+   where it is. */
+var seen=false;try{seen=sessionStorage.getItem('seirai-seen')==='1';sessionStorage.setItem('seirai-seen','1')}catch(e){}
+r.classList.add('hero-settle');
+if(seen){r.classList.add('hero-settle--short');return}
+r.classList.add('hero-wait');
+var f=(document.fonts&&document.fonts.ready)||Promise.resolve();
+Promise.race([f,new Promise(function(go){setTimeout(go,400)})]).then(function(){
+r.classList.add('hero-enter');r.classList.remove('hero-wait');
+/* Removed when it has finished, so nothing is left animating. hero-settle
+   stays: the photograph is still six seconds into its own slow settle. */
+setTimeout(function(){r.classList.remove('hero-enter')},1500)})})()b:X
+e:X
+e:C
+0:{"buildId":"QbP5hkJJQIJ3jSh244b_5","data":[{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0y867-evfr7ii.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/03x-1wguaargy.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/19rhlcx2srev9.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3c80ui_w1j3dp.js","async":true}]],["$","html",null,{"lang":"en","className":"inter_cde02346-module__uSN42a__variable zen_kaku_gothic_new_c01476bd-module__sVTbHG__variable","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem('seirai-pt')==='1'&&!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('pt-arrive')}catch(e){}"}}],["$","$L2",null,{"id":"seirai-boot","strategy":"beforeInteractive","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5","$L6","$L7","$L8","$L9"]}]}]]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$b","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+11:I[37557,["/_next/static/chunks/3c80ui_w1j3dp.js"],"PageTransition"]
+12:I[41611,["/_next/static/chunks/3c80ui_w1j3dp.js","/_next/static/chunks/1izyfj4vcubjs.js"],"SoonProvider"]
+13:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+14:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+15:I[51461,["/_next/static/chunks/3c80ui_w1j3dp.js"],"SmoothScroll"]
+16:I[56053,["/_next/static/chunks/3c80ui_w1j3dp.js"],"Reveals"]
+17:I[51622,["/_next/static/chunks/3c80ui_w1j3dp.js"],"HashScroll"]
+4:["$","$L11",null,{}]
+5:["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}]
+6:["$","$L12",null,{"lang":"en","children":["$","$L13",null,{"parallelRouterKey":"children","template":["$","$L14",null,{}]}]}]
+7:["$","$L15",null,{}]
+8:["$","$L16",null,{}]
+9:["$","$L17",null,{}]
+c:["$","$1","c",{"children":[null,["$","$L13",null,{"parallelRouterKey":"children","template":["$","$L14",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]
+b:300
+10:true
+b:C
+f:0
+d:"$undefined"
+a:"$undefined"

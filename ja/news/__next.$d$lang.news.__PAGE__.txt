@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:I[9616,["/_next/static/chunks/3c80ui_w1j3dp.js","/_next/static/chunks/20cl524cdu79_.js"],"SiteHeader"]
+3:I[41611,["/_next/static/chunks/3c80ui_w1j3dp.js","/_next/static/chunks/20cl524cdu79_.js"],"SoonLink"]
+4:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+8:X
+22:X
+22:C
+0:{"buildId":"QbP5hkJJQIJ3jSh244b_5","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"content":{"menu":{"ja":"メニュー","en":"Menu"},"sitemap":{"ja":"サイトマップ","en":"Site map"},"home_aria":{"ja":"株式会社セイライグループジャパン ホーム","en":"Seirai Group Japan Ltd. Home"},"cta_long":{"ja":"お問い合わせ","en":"Contact"},"cta_short":{"ja":"お問合せ","en":"Contact"}},"lang":"ja"}],["$","main",null,{"id":"main","children":[["$","section",null,{"className":"page-header","aria-labelledby":"page-ttl","children":["$","div",null,{"className":"wrap page-header__grid page-header__grid--solo","children":[["$","div",null,{"className":"page-header__card","children":[["$","nav",null,{"aria-label":"現在の位置","children":["$","p",null,{"className":"eyebrow eyebrow--crumb","children":[["$","span","Home",{"children":[["$","$L3",null,{"to":"/","children":"ホーム"}],["$","span",null,{"aria-hidden":"true","children":" › "}]]}],["$","span","News Releases",{"aria-current":"page","children":"ニュースリリース"}]]}]}],["$","h1",null,{"className":"h1","id":"page-ttl","tabIndex":-1,"children":[["$","$1","0",{"children":[false,"ニュースリリース"]}]]}],["$","p",null,{"className":"page-header__sum","children":"株式会社セイライグループジャパンからのお知らせを、新しい順に掲載しています。"}],"$undefined"]}],false]}]}],["$","section",null,{"className":"band band--paper news","id":"news","aria-labelledby":"news-ttl","children":["$","div",null,{"className":"wrap","children":[["$","h2",null,{"className":"sr-only","id":"news-ttl","children":"ニュースリリース"}],["$","ol",null,{"className":"news__list","children":[["$","li","2026-09-site-launch",{"className":"news__item","id":"2026-09-site-launch","children":[["$","p",null,{"className":"news__meta","children":[["$","time",null,{"dateTime":"2026-10-01","children":"2026.10.01"}],["$","span",null,{"className":"news__cat","children":"お知らせ"}]]}],["$","h3",null,{"className":"news__title","children":[["$","$1","0",{"children":[false,"コーポレートサイト"]}],["$","$1","1",{"children":[["$","wbr",null,{}],"開設のお知らせ"]}]]}],["$","div",null,{"className":"news__body","children":[["$","p","0",{"children":"このたび、株式会社セイライグループジャパンのコーポレートサイトを開設いたしました。会社情報や事業内容、運営中の宿泊施設をご紹介しております。今後は、当社からのお知らせを本ページに掲載してまいります。"}]]}]]}]]}],false]}]}]]}],["$","footer",null,{"className":"ftr","id":"sitemap","children":["$","div",null,{"className":"wrap","children":[["$","div",null,{"className":"ftr__row ftr__top","children":[["$","div",null,{"className":"ftr__id","children":[["$","p",null,{"className":"ftr__lockup","children":["$","b",null,{"children":"株式会社セイライグループジャパン"}]}],["$","p",null,{"className":"caption","children":"宿泊ブランド「ACOE」を運営しています。"}],["$","p",null,{"className":"ftr__mail","id":"contact","children":[["$","span",null,{"children":"お問い合わせ"}],["$","a",null,{"href":"mailto:office@seiraigroup.com","children":"office@seiraigroup.com"}]]}]]}],["$","nav",null,{"className":"ftr__nav","aria-label":"サイトマップ","children":["$","ul",null,{"children":[["$","li","Home",{"children":["$","a",null,{"href":"/ja/","children":"ホーム"}]}],["$","li","Company",{"children":["$","a",null,{"href":"/ja/company/","children":"会社情報"}]}],["$","li","Our Business",{"children":["$","a",null,{"href":"/ja/business/","children":"事業内容"}]}],["$","li","Our Accommodation",{"children":["$","a",null,{"href":"/ja/accommodation/","children":"運営中の宿泊施設"}]}],["$","li","News Releases",{"children":["$","a",null,{"href":"/ja/news/","children":"ニュースリリース"}]}],["$","li","Contact",{"children":["$","a",null,{"href":"mailto:office@seiraigroup.com","children":"お問い合わせ"}]}]]}]}]]}],["$","div",null,{"className":"ftr__base","children":[["$","nav",null,{"aria-label":"規約と採用","children":["$","ul",null,{"className":"ftr__sub","children":[["$","li","Careers",{"children":["$","a",null,{"href":"/ja/recruit/","children":"採用情報"}]}],["$","li","Terms of Use",{"children":["$","a",null,{"href":"/ja/terms/","children":"ご利用規約"}]}],["$","li","Privacy Policy",{"children":["$","a",null,{"href":"/ja/privacy/","children":"プライバシーポリシー"}]}]]}]}],["$","p",null,{"className":"ftr__legal","children":"© 2026 株式会社セイライグループジャパン"}]]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/20cl524cdu79_.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF"}],["$","meta","3",{"name":"color-scheme","content":"only light"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ニュースリリース | 株式会社セイライグループジャパン"}],["$","meta","1",{"name":"description","content":"株式会社セイライグループジャパンからのお知らせです。"}],["$","link","2",{"rel":"canonical","href":"https://seiraigroup.jp/ja/news/"}],["$","link","3",{"rel":"alternate","hrefLang":"ja","href":"https://seiraigroup.jp/ja/news/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://seiraigroup.jp/en/news/"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d"]}]}]}],"$L1e"]}],"isPartial":"$@1f","staleTime":"$8","varyParams":null},{"rsc":"$L20","isPartial":"$@21","staleTime":"$8","varyParams":"$22"}],"isUpgradeableISRFallback":false,"a":"$@23","rootVaryParams":null,"needsRuntimeRequest":"$@24"}
+25:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+26:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+27:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+6:null
+b:["$","link","5",{"rel":"alternate","hrefLang":"x-default","href":"https://seiraigroup.jp/ja/news/"}]
+c:["$","meta","6",{"property":"og:title","content":"ニュースリリース | 株式会社セイライグループジャパン"}]
+d:["$","meta","7",{"property":"og:description","content":"株式会社セイライグループジャパンからのお知らせです。"}]
+e:["$","meta","8",{"property":"og:site_name","content":"株式会社セイライグループジャパン"}]
+f:["$","meta","9",{"property":"og:locale","content":"ja_JP"}]
+10:["$","meta","10",{"property":"og:image","content":"https://seiraigroup.jp/og.jpg"}]
+11:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+12:["$","meta","12",{"property":"og:image:height","content":"630"}]
+13:["$","meta","13",{"property":"og:image:alt","content":"ACOEの暖簾"}]
+14:["$","meta","14",{"property":"og:type","content":"website"}]
+15:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+16:["$","meta","16",{"name":"twitter:title","content":"ニュースリリース | 株式会社セイライグループジャパン"}]
+17:["$","meta","17",{"name":"twitter:description","content":"株式会社セイライグループジャパンからのお知らせです。"}]
+18:["$","meta","18",{"name":"twitter:image","content":"https://seiraigroup.jp/og.jpg"}]
+19:["$","meta","19",{"name":"twitter:image:alt","content":"ACOEの暖簾"}]
+1a:["$","meta","20",{"name":"twitter:image:width","content":"1200"}]
+1b:["$","meta","21",{"name":"twitter:image:height","content":"630"}]
+1c:["$","link","22",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+1d:["$","$L25","23",{}]
+1e:["$","meta",null,{"name":"next-size-adjust","content":""}]
+20:["$","$1","c",{"children":[null,["$","$L26",null,{"parallelRouterKey":"children","template":["$","$L27",null,{}]}]]}]
+24:true
+8:300
+8:C
+23:0
+1f:"$undefined"
+21:"$undefined"
+7:"$undefined"

@@ -21,13 +21,63 @@
 <xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/company/" />
 </url>
 <url>
-<loc>https://seiraigroup.jp/ja/how-we-operate/</loc>
-<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/how-we-operate/" />
-<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/how-we-operate/" />
+<loc>https://seiraigroup.jp/ja/business/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/business/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/business/" />
 </url>
 <url>
-<loc>https://seiraigroup.jp/en/how-we-operate/</loc>
-<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/how-we-operate/" />
-<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/how-we-operate/" />
+<loc>https://seiraigroup.jp/en/business/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/business/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/business/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/ja/accommodation/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/accommodation/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/accommodation/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/en/accommodation/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/accommodation/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/accommodation/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/ja/news/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/news/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/news/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/en/news/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/news/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/news/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/ja/recruit/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/recruit/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/recruit/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/en/recruit/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/recruit/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/recruit/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/ja/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/privacy/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/privacy/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/en/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/privacy/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/privacy/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/ja/terms/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/terms/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/terms/" />
+</url>
+<url>
+<loc>https://seiraigroup.jp/en/terms/</loc>
+<xhtml:link rel="alternate" hreflang="ja" href="https://seiraigroup.jp/ja/terms/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://seiraigroup.jp/en/terms/" />
 </url>
 </urlset>
